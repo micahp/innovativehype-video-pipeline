@@ -1,0 +1,25 @@
+{
+  "pipeline_started": "2026-05-14T09:23:14.389382+00:00",
+  "output_dir": "/Users/micah/.hermes/kanban/workspaces/t_db9658c0/pipeline_output",
+  "stages": {
+    "stage1_script": {
+      "status": "ok",
+      "script": "./pipeline_output/script_20260514_092314.json"
+    },
+    "stage2_render": {
+      "status": "ok",
+      "video": "./pipeline_output/video_20260514_092314.mp4",
+      "manifest": "./pipeline_output/video_20260514_092314.manifest.json"
+    },
+    "stage3_distribute": {
+      "status": "ok",
+      "result": "./pipeline_output/distribution_20260514_092314.json"
+    }
+  },
+  "script": {
+    "subject": "GPT-5 released",
+    "duration_est": null,
+    "keywords": []
+  },
+  "pipeline_completed": "2026-05-14T09:23:14.389690+00:00"
+}

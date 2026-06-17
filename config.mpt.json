@@ -1,0 +1,17 @@
+{
+  "_comment": "MoneyPrinterTurbo config overrides for the video pipeline",
+  "video_aspect": "9:16",
+  "voice_name": "en-US-JennyNeural",
+  "voice_rate": 1.0,
+  "bgm_type": "random",
+  "bgm_volume": 0.15,
+  "subtitle_enabled": true,
+  "font_size": 54,
+  "text_fore_color": "#FFFFFF",
+  "stroke_color": "#000000",
+  "stroke_width": 1.5,
+  "video_source": "pexels",
+  "video_clip_duration": 5,
+  "video_concat_mode": "random",
+  "n_threads": 2
+}
